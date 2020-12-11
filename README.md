@@ -6,7 +6,7 @@ a weather app inspired by the beautiful designs made by [Olia Gozha](https://dri
 
 ![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
-## What you will learn
+## What I learn
 
 - How to use Dart to perform asynchronous tasks.
 - Understand async and await.
